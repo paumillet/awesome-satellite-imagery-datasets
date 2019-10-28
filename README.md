@@ -169,3 +169,8 @@ Develop a Multi-View Stereo (MVS) 3D mapping algorithm that can convert high-res
 
 - [**Draper Satellite Image Chronology**](https://www.kaggle.com/c/draper-satellite-image-chronology) *(Draper, Jun 2016)*  
 Predict the chronological order of images taken at the same locations over 5 days, Kaggle kernels
+
+
+### WMS to combine with Label-Maker
+
+- [**Sentinel-2 cloudless WMS**](https://s2maps.eu/): WMS serving Sentinel-2 cloudless imagery (2018). [getCapabilities](https://tiles.maps.eox.at/wms?service=wms&request=getcapabilities). They actually also provide access to download Sentinel-2 cloudless imagery (2016 & 2018)
